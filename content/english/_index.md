@@ -18,7 +18,7 @@ feature:
     # feature item loop
     - name : "Digital Development Strategy "
       icon : "fas fa-code"
-      content : "Digital Government Readiness Assessment and Gap Analysis to guide development  and implemention of Digital Transformation Strategy and Plans"
+      content : "Digital Government Readiness Assessment and Gap Analysis to guide development  and implemention of Digital Strategy and Plans"
       
     # feature item loop
     - name : "Municipal ERP"
@@ -33,10 +33,10 @@ feature:
     # feature item loop
     - name : "Data Science and Analytics"
       icon : "fas fa-heart"
-      content : "Harnessing the power of data science and analytics to help organistions  our communities to solve their development challenges and THRIVE"
+      content : "Harnessing the power of data science and analytics to help organistions and local communities to solve their development challenges and THRIVE"
       
     # feature item loop
-    - name : "g-Works"
+    - name : "Public Works & Asset Management"
       icon : "fas fa-user-clock"
       content : "Public Works and Assets Management Informatiom Systems to drive eficiency, transparency and accountability in public sector resource utilisation"
       
