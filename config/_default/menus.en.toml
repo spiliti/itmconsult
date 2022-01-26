@@ -52,13 +52,13 @@ weight = 4
 #url = "#"
 
 ## footer menu right
-[[footer_left]]
-name = "Privacy Policy"
-url = "privacy-policy"
+##[[footer_middle]]
+#name = "Privacy Policy"
+#url = "privacy-policy"
 
-[[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions"
+#[[footer_left]]
+#name = "Terms & Conditions"
+#url = "terms-conditions"
 
 #[[footer_right]]
 #name = "FAQ"

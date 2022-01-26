@@ -30,20 +30,20 @@ content = "This site uses cookies. By continuing to use this website, you agree 
 button = "I Accept"
   
 ############################# social site ########################
-[[social]]
-title = "facebook"
-icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[social]]
+#title = "facebook"
+#icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
 link = "#"
 
-[[social]]
-title = "skype"
-icon = "fab fa-skype" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[social]]
+#title = "skype"
+#icon = "fab fa-skype" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
 [[social]]
 title = "linkedin"
