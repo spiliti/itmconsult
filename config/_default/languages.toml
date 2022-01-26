@@ -5,9 +5,9 @@ title = "ITM Consult (ZM)"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
-footer_menu_left = "Company"
-footer_menu_middle = "Product"
-footer_menu_right = "Support"
-footer_content = "" 
+footer_menu_left = " "
+footer_menu_middle = ""
+footer_menu_right = ""
+footer_content = "Get in touch" 
 # copyright
 copyright = "Designed by [ITM Consult (ZM)]"
