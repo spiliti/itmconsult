@@ -1,13 +1,13 @@
 ############################# English ############################
 [en]
 languageName = "En"
-title = "ITM Consult (ZM)"
+title = "ITM Consult"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
-footer_menu_left = " "
+footer_menu_left = ""
 footer_menu_middle = ""
 footer_menu_right = ""
-footer_content = "beenzu@itmconsultzm.com     +260.976.242.2222" 
+footer_content = "itmconsult.zm@gmail.com     +260.976.242.2222" 
 # copyright
-copyright = "Designed by [ITM Consult (ZM)]"
+copyright = "Designed by Comdev Networks"

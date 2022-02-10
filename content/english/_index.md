@@ -43,7 +43,7 @@ feature:
     # feature item loop
     - name : "Capacity Building and Training"
       icon : "fas fa-cloud"
-      content : "Conduct Digital Literacy campaigns. Provide high-level GovTech workshops and training programs to support a culture of innovation and data usage."
+      content : "Conduct Digital Literacy campaigns. Digital Skills Assessements. Provide high-level workshops and training programs to support a culture of innovation and data usage."
       
 
 ######################### Service #####################
